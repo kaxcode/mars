@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins|Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato|Ubuntu&display=swap');
 
 html {
   background-color: #1f2b3b !important;
   color: #fff !important;
   /* font-size: 2em; */
-  font-family: "Poppins", sans-serif !important;
+  font-family: "Ubuntu", sans-serif !important;
 }
 
 body {
   background-color: #1f2b3b !important;
   color: #fff !important;
   font-size: 20px !important;
-  font-family: "Poppins", sans-serif !important;
+  font-family: "Ubuntu", sans-serif !important;
 }
 
 .code {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Lato", monospace;
 }
 
 .info {
