@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Ubuntu&display=swap');
 
 html {
-  background-color: #1f2b3b !important;
-  color: #fff !important;
-  /* font-size: 2em; */
+  background-color: #fff !important;
+  color: #7B65A5 !important;
   font-family: "Ubuntu", sans-serif !important;
 }
 
 body {
-  background-color: #1f2b3b !important;
-  color: #fff !important;
+  background-color: #fff !important;
+  color: #7B65A5 !important;
   font-size: 20px !important;
   font-family: "Ubuntu", sans-serif !important;
 }
@@ -21,6 +20,7 @@ body {
 .info {
   line-height: 1.4;
   width: 85%;
+  color: #9A98A3;
 }
 
 .social {
@@ -33,18 +33,18 @@ body {
 .icon {
   height: 30px;
   transition: 0.1s ease-in;
-  color: #fff;
+  color: #7B65A5;
 }
 
 .icon:hover {
   transform: scale(1.5);
-  color: #ff8a00;
+  color: #E37CA6;
 }
 
 .card {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   transition: 0.1s ease-in;
-  background-color: #324359 !important;
+  background-color: #fff !important;
 }
 
 .card p {

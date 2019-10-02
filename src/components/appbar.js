@@ -6,7 +6,7 @@ export default function Appbar() {
     <div className="container my-3">
       <ul className="nav justify-content-center">
         <li className="nav-item mx-4">
-          <Intent to="/">Home</Intent>
+          <Intent to="/">About</Intent>
         </li>
       </ul>
     </div>
