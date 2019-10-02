@@ -21,7 +21,7 @@ export default function info() {
         <a className="mr-5 icon" href="https://github.com/kaxcode">
           <Github />
         </a>
-        <a className="mr-5 icon" href="mailto://keniavalladarez@gmail.com">
+        <a className="mr-5 icon" href="mailto:keniavalladarez@gmail.com">
           <Mail />
         </a>
       </div>
