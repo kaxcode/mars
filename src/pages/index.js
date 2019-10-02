@@ -10,7 +10,7 @@ function index() {
       <Appbar />
       <Info />
       <Helmet>
-        <meta charSet="utf-8" />
+        {/* <meta charSet="utf-8" /> */}
         <title>Kenia</title>
       </Helmet>
     </div>
