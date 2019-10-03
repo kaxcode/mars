@@ -6,6 +6,10 @@ import {
   FaEnvelope as Mail,
 } from "react-icons/fa"
 
+import "./info.css"
+
+import kenia from "./../images/kenia.png"
+
 export default function info() {
   return (
     <div className="container">
@@ -14,6 +18,14 @@ export default function info() {
         <span style={{ color: "#7B65A5" }}>Hello, I'm </span>
         Kenia.
       </div>
+
+      <div className="mt-3 container">
+        <div className="row">
+          <img className="col-md-auto bioImage" src={kenia} alt="" />
+          <p className="col">UI Engineer with a love for JS and Design.</p>
+        </div>
+      </div>
+
       <div className="h1 mt-5">
         <a className="mr-5 icon" href="https://twitter.com/kaxcode">
           <Twitter />
