@@ -6,7 +6,7 @@ import {
   FaEnvelope as Mail,
 } from "react-icons/fa"
 
-import "./info.css"
+import "./about.css"
 
 import kenia from "./../images/kenia.png"
 
