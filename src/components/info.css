@@ -1,0 +1,17 @@
+.info {
+  line-height: 1.4;
+  width: 85%;
+  color: #9A98A3;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white !important;
+}
+
+.bioImage {
+  max-width: 20rem;
+  height: auto;
+}
