@@ -1,5 +1,6 @@
 import React from "react"
 import Link from "gatsby-plugin-transition-link/AniLink"
+import "./link.css"
 
 export default function Intent({ children, to }) {
   return (
