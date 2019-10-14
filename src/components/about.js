@@ -21,7 +21,7 @@ export default function info() {
 
       <div className="mt-3 container">
         <div className="row">
-          <img className="col-md-auto bioImage" src={kenia} alt="" />
+          {/* <img className="col-md-auto bioImage" src={kenia} alt="" /> */}
           <p className="col">UI Engineer with a love for JS and Design.</p>
         </div>
       </div>
